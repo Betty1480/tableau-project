@@ -1,10 +1,6 @@
 # tableau-project
 
 
-Here’s a personalized GitHub project description you can use for your Tableau HR dashboard project. It frames your assignment professionally and highlights your contributions:
-
----
-
  📊 HR Analytics Dashboard with Tableau
 
 Project Overview:
@@ -83,6 +79,4 @@ This project is part of a weekly hands-on assignment to strengthen data visualiz
 * Learned how to convert client needs into analytical solutions
 * Strengthened data storytelling skills using Tableau’s advanced features
 
----
 
-Let me know if you'd like help uploading the `.twbx` file or customizing the visuals for GitHub display (e.g., screenshots, README formatting).
